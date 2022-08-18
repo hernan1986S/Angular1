@@ -1,0 +1,42 @@
+form{
+  background-color: white;
+  border-radius: 3px;
+  text-decoration: none;
+  text-shadow: 0 1px 0 rgba(255, 255, 255, 0.3);
+  box-shadow: 0 1px 1px rgba(0,0,0,0.3);
+  font-size: 0.8rem;
+  padding: 20px 15px;
+  margin: 0 auto;
+  width: 300px;
+  box-sizing: border-box;
+  border: solid 1px #ccc;
+  border-color: #18a383;
+}
+label{
+  margin: 10px;
+  width: 70px;
+  border: dodgerblue;
+  text-align: center;
+}
+input{
+  background-position: center;
+  background-size: contain;
+  background-color: rgb(199, 191, 179);
+  border:1px solid rgb(154, 16, 16);
+}
+button{
+  border:1px solid green;
+  border: darkblue;
+  border: 0;
+  outline: none;
+  width: 280px;
+  text-align: center;
+}
+p{
+  margin: 5px;
+  margin-top: 0px;
+  font-size: .8rem;
+  color: dimgrey;
+  text-align: center;
+  border: solid 1px #ccc;
+}

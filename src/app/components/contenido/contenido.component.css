@@ -1,0 +1,13 @@
+.banner
+{
+  background-image: url('../../../assets/img/vino4.jpg');
+  height: 850px;
+  background-position: center top;
+  background-size: cover;
+}
+.banner h1
+{
+  font-size: 50px;
+  font-weight: bold;
+  top: 20%;
+}

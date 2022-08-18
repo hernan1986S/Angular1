@@ -1,0 +1,12 @@
+.navbar-light .navbar-nav .nav-link
+{
+    color: darkolivegreen;
+}
+.navbar-light .navbar-nav .nav-link.active-link
+{
+    color: darkgrey;
+   text-decoration: underline;
+}
+a{
+font-weight: bold;
+}
